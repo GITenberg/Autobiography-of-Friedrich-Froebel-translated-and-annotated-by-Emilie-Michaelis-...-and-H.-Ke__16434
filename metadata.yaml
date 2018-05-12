@@ -1,0 +1,42 @@
+_repo: Autobiography-of-Friedrich-Froebel-translated-and-annotated-by-Emilie-Michaelis-...-and-H.-Ke__16434
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Michaelis, Emilie
+    gutenberg_agent_id: '6707'
+    url: http://www.gutenberg.org/2009/agents/6707
+  - agent_name: Moore, Henry Keatley
+    birthdate: 1846
+    gutenberg_agent_id: '6708'
+    url: http://www.gutenberg.org/2009/agents/6708
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fröbel, Friedrich
+    aliases:
+    - Frobel, Friedrich
+    - Froebel, Friedrich Wilhelm August
+    birthdate: 1782
+    deathdate: 1852
+    gutenberg_agent_id: '6706'
+    url: http://www.gutenberg.org/2009/agents/6706
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Wilhelm_August_Fröbel
+description: ''
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16434'
+  lccn: '06022201'
+language: en
+publication_note: ' Syracuse, N.Y. :  C.W. Bardeen,  1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fröbel, Friedrich, 1782-1852'
+- !lcc 'LB'
+title: Autobiography of Friedrich Froebel  translated and annotated by Emilie Michaelis
+  ... and H. Keatley Moore.
+url: http://www.gutenberg.org/ebooks/16434
