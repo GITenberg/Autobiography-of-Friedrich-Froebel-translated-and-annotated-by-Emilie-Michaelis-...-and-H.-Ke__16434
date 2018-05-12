@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6706
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Wilhelm_August_Fröbel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16434#Autobiography-of-Friedrich-Froebel-translated-and-annotated-by-Emilie-Michaelis-...-and-H.-Ke_
 gutenberg_issued: '2005-08-04'
 gutenberg_type: Text
 identifiers:
